@@ -1,0 +1,8 @@
+.env
+vectorstore.pkl
+__pycache__/
+/venv/
+venv/
+.venv/
+ENV/
+env/
